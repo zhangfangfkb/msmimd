@@ -1,0 +1,2 @@
+# msmimd
+Daily digest notes
